@@ -72,6 +72,7 @@ a {
 .top-bar {
     padding-top: 6px;
     padding-bottom: 6px;
+    /* padding: 6px 0 6px 0; */
     background: #131d29;
     color: #5a6674;
     text-transform: uppercase;
